@@ -1,4 +1,4 @@
-//Thread - unit of a process
+//what is Thread - unit of a process
 // @auther Masum
 class Hi extends Thread
 {
